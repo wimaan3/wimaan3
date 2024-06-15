@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my startup [CCRO](https://ccrorg.vercel.app/), two new projects..., finding internships, and starting research!**
 
-- 👨‍💻 All of my projects are available at [https://wimaan3.github.io/](https://wimaan3.github.io/)
+- 👨‍💻 All of my projects are available [here](https://wimaan3.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
