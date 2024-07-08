@@ -3,11 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wimaan3" alt="wimaan3" /></a> </p>
 
-```
-- 🔭 I’m currently working on **my startup [CCRO](https://ccrorg.vercel.app/), two new projects..., finding internships, and starting research!**
-
-- 👨‍💻 All of my projects are available [here](https://wimaan3.github.io/)
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
